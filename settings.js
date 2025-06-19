@@ -6,13 +6,13 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "",
+    SESSION_ID: process.env.SESSION_ID || "suho~AudzjIjA#9S82A17EyUeJO6Z1PvQt0Nd5aloopWoRJJd738N3OHU",
     // add your Session Id make sure it starts with suho~
 
     PREFIX: process.env.PREFIX || ".",
     // add your prefix for bot
 
-    BOT_NAME: process.env.BOT_NAME || "sᴜɴɢ-sᴜʜᴏ-ᴍᴅ",
+    BOT_NAME: process.env.BOT_NAME || "সাঁপুঁডেঁ বাঁবাঁ",
     // add bot name here for menu
 
     MODE: process.env.MODE || "public",
@@ -48,7 +48,7 @@ module.exports = {
     MENTION_REPLY: process.env.MENTION_REPLY || "false",
     // make true if want auto voice reply if someone mention you 
 
-    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/eeeypw.jpg",
+    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/9f7j95.jpg",
     // add custom menu and mention reply image url
 
     ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/vcofni.jpg",
