@@ -7,10 +7,10 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "suho~s3UDjAKD#Gb96MVH18UgX9Q6lsA5b3r4CgxxdPncasdvzuZmlV-Q"
       "description": "Must Start with 'suho~'",
       "required": true,
-      "value": "suho~s3UDjAKD#Gb96MVH18UgX9Q6lsA5b3r4CgxxdPncasdvzuZmlV-Q"
+      "value": ""
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
